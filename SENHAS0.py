@@ -1,4 +1,4 @@
- /\\\\\\\\\\\\\\\\\\\/////////////////////COGIGO AINDA NÃO ESTÁ PRONTO/////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 print('-=-'*10)
 print(f'{"-= BEM VINDO =-":^30}')
 print('-=-'*10)
@@ -10,12 +10,12 @@ tt = 0
 n=''
 s=''
 while op != 3:
-  /\\\\\\\\\\\\\\\\\\\/////////////////////COGIGO AINDA NÃO ESTÁ PRONTO/////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
     op= int(input('''\n[1]-DESEJA EFETUAR LOGIN\n[2]-CADASTRO\n[3]-SAIR
 DIGITE A OPÇÃO SELECIONADA: '''))
- /\\\\\\\\\\\\\\\\\\\/////////////////////COGIGO AINDA NÃO ESTÁ PRONTO/////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
     print('')
-   /\\\\\\\\\\\\\\\\\\\/////////////////////COGIGO AINDA NÃO ESTÁ PRONTO/////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+
     if op == 1:
         n = input('DIGITE SEU NOME: ')
         s = input('DIGITE A SUA SENHA: ')
@@ -28,4 +28,3 @@ DIGITE A OPÇÃO SELECIONADA: '''))
     elif op == 3:
             print('OBRIGADO FIM DA EXECUÇÃO!')
 
- /\\\\\\\\\\\\\\\\\\\/////////////////////COGIGO AINDA NÃO ESTÁ PRONTO/////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
